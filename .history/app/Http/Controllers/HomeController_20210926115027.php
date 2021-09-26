@@ -11,13 +11,8 @@ class HomeController extends Controller
         return view('content.home');
     }
 
-    public function showClassworks()
+    public function show()
     {
-        return view ('content.classworks');
-    }
-
-    public function showLab2()
-    {
-        return view ('content.lab2');
+        
     }
 }

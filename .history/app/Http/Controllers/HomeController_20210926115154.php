@@ -15,9 +15,4 @@ class HomeController extends Controller
     {
         return view ('content.classworks');
     }
-
-    public function showLab2()
-    {
-        return view ('content.lab2');
-    }
 }
