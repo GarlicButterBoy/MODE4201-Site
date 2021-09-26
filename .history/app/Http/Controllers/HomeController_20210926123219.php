@@ -16,9 +16,9 @@ class HomeController extends Controller
         return view ('content.classworks');
     }
     
-    public function showLab1()
+    public function showLab2()
     {
-        return view ('content.lab1');
+        return view ('content.lab2');
     }
 
     public function showLab2()
