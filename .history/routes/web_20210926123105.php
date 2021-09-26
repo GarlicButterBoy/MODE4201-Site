@@ -15,6 +15,6 @@ Route::get('/', 'HomeController@index');
 
 Route::get('/classworks', 'HomeController@showClassworks');
 
-Route::get('/lab1', 'HomeController@showLab1');
+Route::get('/lab2', 'HomeController@showLab1');
 
 Route::get('/lab2', 'HomeController@showLab2');
