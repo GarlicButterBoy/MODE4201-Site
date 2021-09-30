@@ -7,6 +7,7 @@
       Nick Sturch-Flint, Student of Durham College.
     </p>
     <hr/>
+    <
     <p class="lead">
       <a href="/classworks" class="btn btn-lg btn-secondary fw-bold border-white bg-white">Classworks</a>
 </p>
