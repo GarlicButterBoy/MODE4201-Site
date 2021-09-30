@@ -6,6 +6,6 @@
     <p class="lead">This is the page for lab 2</p>
     <p class="lead">Click <a href="https://youtu.be/nDcP8n5fqac">here</a> for Part A.</p><br/>
     <hr/>
-    <p class="lead">Click <a href="{{ asset('files/Lab2PartB.pdf') }}">here</a> for Part B.</p>
+    <p class="lead">Click <a href="{{ asset('files/Lab 1 - Nick Sturch-Flint.pdf') }}">here</a> for Part B.</p>
 
 @endsection
